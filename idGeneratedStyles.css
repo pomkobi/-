@@ -16,7 +16,7 @@ div.Bloc-de-texte-standard {
 }
 p.Paragraphe-standard {
 	color:#000000;
-	font-family:"Oki", serif;
+	font-family:"Oki";
 	font-size:12px;
 	font-style:normal;
 	font-variant:normal;
@@ -29,14 +29,14 @@ p.Paragraphe-standard {
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
-	text-align:left;
+	text-align:center;
 	text-decoration:none;
 	text-indent:0;
 	text-transform:none;
 	widows:1;
 }
 span.CharOverride-1 {
-	font-family:"Oki", sans-serif;
+	font-family:"Oki";
 	font-size:24px;
 	font-style:normal;
 	font-weight:normal;
