@@ -22,10 +22,10 @@ p.Paragraphe-standard {
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
-	margin-bottom:auto;
-	margin-left:auto;
-	margin-right:auto;
-	margin-top:auto;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
