@@ -29,6 +29,7 @@ p.Paragraphe-standard {
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
+	text-size-adjust: 100%;
 	text-align:center;
 	text-decoration:none;
 	text-indent:0;
